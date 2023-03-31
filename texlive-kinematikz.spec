@@ -1,6 +1,6 @@
 Name:		texlive-kinematikz
 Version:	61392
-Release:	1
+Release:	2
 Summary:	Design kinematic chains and mechanisms
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kinematikz
