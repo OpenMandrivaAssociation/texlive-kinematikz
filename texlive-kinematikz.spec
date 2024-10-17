@@ -3,7 +3,7 @@ Version:	61392
 Release:	2
 Summary:	Design kinematic chains and mechanisms
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kinematikz
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kinematikz
 License:	lppl1.3 gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kinematikz.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kinematikz.doc.r%{version}.tar.xz
